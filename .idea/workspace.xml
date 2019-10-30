@@ -11,7 +11,26 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7e03985-80b8-48b4-a6a5-a2608c025952" name="Default Changelist" comment="" />
+    <list default="true" id="b7e03985-80b8-48b4-a6a5-a2608c025952" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalcFunctions/CircleCalculations.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalcFunctions/CircleCalculations.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalcFunctions/area.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalcFunctions/area.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalcFunctions/circumference.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalcFunctions/circumference.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalcFunctions/dist.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalcFunctions/dist.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalcFunctions/rad.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalcFunctions/rad.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/untitled.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/untitled.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +41,13 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1SaVMpEmLXvRFo8YEi0VhC0aJN8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunDashboard">
@@ -56,11 +80,26 @@
       <option name="presentableId" value="Default" />
       <updated>1571801647648</updated>
       <workItem from="1571801649373" duration="46000" />
-      <workItem from="1571801750048" duration="196000" />
+      <workItem from="1571801750048" duration="1538000" />
+      <workItem from="1571971986071" duration="3123000" />
+      <workItem from="1572310856589" duration="547000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rafaelszuminski/CLionProjects/CS1A_WORKSPACE/CalcFunctions/area.cpp
+area.h
+/Users/rafaelszuminski/CLionProjects/CS1A_WORKSPACE/CalcFunctions/area.h
+math.h
+-
+
+/Users/rafaelszuminski/CLionProjects/CS1A_WORKSPACE/CalcFunctions/area.h
+
+/Users/rafaelszuminski/CLionProjects/CS1A_WORKSPACE/CalcFunctions/circumference.cpp
+circumference.h
+/Users/rafaelszuminski/CLionProjects/CS1A_WORKSPACE/CalcFunctions/circumference.h
+
+/Users/rafaelszuminski/CLionProjects/CS1A_WORKSPACE/CalcFunctions/circumference.h
+

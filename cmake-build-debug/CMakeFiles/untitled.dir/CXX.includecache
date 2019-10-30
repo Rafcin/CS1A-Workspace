@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rafaelszuminski/CLionProjects/CS1A_WORKSPACE/CalcFunctions/CalcArea.h
+math.h
+-
+
+/Users/rafaelszuminski/CLionProjects/CS1A_WORKSPACE/CalcFunctions/CalcCirc.h
+math.h
+-
+
+/Users/rafaelszuminski/CLionProjects/CS1A_WORKSPACE/CalcFunctions/CalcDist.h
+math.h
+-
+
+/Users/rafaelszuminski/CLionProjects/CS1A_WORKSPACE/CalcFunctions/CalcRad.h
+
+/Users/rafaelszuminski/CLionProjects/CS1A_WORKSPACE/main.cpp
+iostream
+-
+iomanip
+-
+math.h
+-
+/Users/rafaelszuminski/CLionProjects/CS1A_WORKSPACE/CalcFunctions/CalcArea.h
+-
+/Users/rafaelszuminski/CLionProjects/CS1A_WORKSPACE/CalcFunctions/CalcCirc.h
+-
+/Users/rafaelszuminski/CLionProjects/CS1A_WORKSPACE/CalcFunctions/CalcDist.h
+-
+/Users/rafaelszuminski/CLionProjects/CS1A_WORKSPACE/CalcFunctions/CalcRad.h
+-
+

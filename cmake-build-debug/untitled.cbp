@@ -80,6 +80,21 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/rafaelszuminski/CLionProjects/CS1A_WORKSPACE/CalcFunctions/CalcArea.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/rafaelszuminski/CLionProjects/CS1A_WORKSPACE/CalcFunctions/CalcCirc.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/rafaelszuminski/CLionProjects/CS1A_WORKSPACE/CalcFunctions/CalcDist.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/rafaelszuminski/CLionProjects/CS1A_WORKSPACE/CalcFunctions/CalcRad.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/rafaelszuminski/CLionProjects/CS1A_WORKSPACE/CalcFunctions/Consts.h">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="/Users/rafaelszuminski/CLionProjects/CS1A_WORKSPACE/main.cpp">
 			<Option target="untitled"/>
 		</Unit>
